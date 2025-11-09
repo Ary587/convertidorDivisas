@@ -53,6 +53,4 @@ class Convertidor {
     }
   }
 }
-
-// Inicializar convertidor
 new Convertidor();
